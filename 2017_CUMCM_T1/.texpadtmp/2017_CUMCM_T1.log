@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.5.27)  15 JUL 2017 09:53
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.5.27)  17 JUL 2017 16:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1581,7 +1581,7 @@ File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 Package: xeCJK-listings 2017/04/01 v3.4.7 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count283
 \l__xeCJK_listings_flag_int=\count284
-) (/Users/tinoryj/Documents/Works/组织-竞赛-瞎搞/数学建模/2017国赛/暑假集训第一阶段/练习题/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.aux)
+) (/Users/tinoryj/Documents/progsData/Latex/LatexDocument/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.aux)
 \openout1 = `2017_CUMCM_T1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -1720,7 +1720,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
 LaTeX Info: Redefining \nameref on input line 19.
- (/Users/tinoryj/Documents/Works/组织-竞赛-瞎搞/数学建模/2017国赛/暑假集训第一阶段/练习题/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.out) (/Users/tinoryj/Documents/Works/组织-竞赛-瞎搞/数学建模/2017国赛/暑假集训第一阶段/练习题/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.out)
+ (/Users/tinoryj/Documents/progsData/Latex/LatexDocument/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.out) (/Users/tinoryj/Documents/progsData/Latex/LatexDocument/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.out)
 \@outlinefile=\write4
 \openout4 = `2017_CUMCM_T1.out'.
 
@@ -1740,6 +1740,19 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 19.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 19.
 Package hyperref Info: Option `breaklinks' set `true' on input line 19.
+LaTeX Font Info:    Calculating math sizes for size <12.05> on input line 24.
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (1.58965pt too wide) in paragraph at lines 26--27
+[]\TU/STSong(0)/m/n/12.05 本 文 选 择 奇 瑞 \TU/TimesNewRoman(0)/m/n/12.05 QQ \TU/STSong(0)/m/n/12.05 车 型 进 行 验 证，|  该 车 型 采 用 的 单 曲 率 后 视 镜，|  曲 率 半 径 为 $\OT1/cmr/m/n/12.05 1200\OML/cmm/m/it/12.05 mm$\TU/STSong(0)/m/n/12.05 ，|
+ []
+
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -1772,10 +1785,35 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 19.
 . - 'normal' (m/n) with NFSS spec.: <->"STHeiti/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
+[1
 
-LaTeX Font Warning: Font shape `TU/STHeiti(0)/bx/n' undefined
-(Font)              using `TU/STHeiti(0)/m/n' instead on input line 20.
+] (/Users/tinoryj/Documents/progsData/Latex/LatexDocument/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.toc [2]
+Overfull \hbox (16.73448pt too wide) detected at line 36
+\TU/STSong(0)/bx/n/12.05 附 录 \TU/TimesNewRoman(0)/bx/n/12.05 A 
+ []
 
+)
+\tf@toc=\write5
+\openout5 = `2017_CUMCM_T1.toc'.
+
+ [3]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern -12.05pt
+(hyperref)                removed on input line 34.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 37.
+
+File: figures/title.png Graphic file (type QTm)
+<use  "figures/title.png" >
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -1809,177 +1847,109 @@ LaTeX Font Warning: Font shape `TU/STHeiti(0)/bx/n' undefined
 .................................................
 
 LaTeX Font Warning: Font shape `TU/STSong(1)/bx/n' undefined
-(Font)              using `TU/STSong(1)/m/n' instead on input line 20.
-
-\mcm@lenB=\skip76
-\mcm@lenA=\skip77
-*************************************************
-* fontspec warning: "script-not-exist"
-* 
-* Font 'STKaiti' does not contain script 'CJK'.
-*************************************************
-\g__fontspec_family_STKaiti_int=\count288
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "STKaiti/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "STKaiti/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "STKaiti/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'STKaiti(0)' created for font 'STKaiti' with options
-. [Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"STKaiti/OT"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
-
-LaTeX Font Warning: Font shape `TU/STKaiti(0)/bx/n' undefined
-(Font)              using `TU/STKaiti(0)/m/n' instead on input line 20.
-
-[1
-
-]
-\mcm@lenC=\skip78
-\mcm@lenD=\skip79
-\mcm@lenF=\skip80
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2]
-LaTeX Font Info:    Calculating math sizes for size <12.05> on input line 23.
-
-Overfull \hbox (1.58965pt too wide) in paragraph at lines 25--26
-[]\TU/STSong(0)/m/n/12.05 本 文 选 择 奇 瑞 \TU/TimesNewRoman(0)/m/n/12.05 QQ \TU/STSong(0)/m/n/12.05 车 型 进 行 验 证，|  该 车 型 采 用 的 单 曲 率 后 视 镜，|  曲 率 半 径 为 $\OT1/cmr/m/n/12.05 1200\OML/cmm/m/it/12.05 mm$\TU/STSong(0)/m/n/12.05 ，|
- []
-
-[1] (/Users/tinoryj/Documents/Works/组织-竞赛-瞎搞/数学建模/2017国赛/暑假集训第一阶段/练习题/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.toc [2]
-Overfull \hbox (16.73448pt too wide) detected at line 36
-\TU/STSong(0)/bx/n/12.05 附 录 \TU/TimesNewRoman(0)/bx/n/12.05 A 
- []
-
-)
-\tf@toc=\write5
-\openout5 = `2017_CUMCM_T1.toc'.
-
- [3]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 33.
+(Font)              using `TU/STSong(1)/m/n' instead on input line 46.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 36.
+(hyperref)                removed on input line 50.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 36.
-
-File: figures/title.png Graphic file (type QTm)
-<use  "figures/title.png" >
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 49.
+(hyperref)                removed on input line 50.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 59.
+(hyperref)                removed on input line 60.
 
 [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 63.
+(hyperref)                removed on input line 64.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 63.
+(hyperref)                removed on input line 64.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 66.
+(hyperref)                removed on input line 67.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 66.
+(hyperref)                removed on input line 67.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 69.
+(hyperref)                removed on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 69.
+(hyperref)                removed on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 73.
+(hyperref)                removed on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern -12.05pt
+(hyperref)                removed on input line 84.
+
+
+Overfull \hbox (2.57281pt too wide) in paragraph at lines 86--98
+[][] 
+ []
 
 [5]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 85.
-
-
-Overfull \hbox (2.57281pt too wide) in paragraph at lines 87--99
-[][] 
- []
+(hyperref)                removed on input line 99.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern -12.05pt
+(hyperref)                \kern 2.00876pt
 (hyperref)                removed on input line 100.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 101.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 101.
+(hyperref)                removed on input line 100.
 
 File: figures/view.png Graphic file (type QTm)
-<use  "figures/view.png" > [6]
+<use  "figures/view.png" >
+LaTeX Font Info:    Calculating math sizes for size <8.43495> on input line 111.
+ [6]
 File: figures/hight.png Graphic file (type QTm)
  <use  "figures/hight.png" >
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 121.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 121.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 122.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
 (hyperref)                removed on input line 122.
 
 
@@ -1990,61 +1960,56 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 123.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 123.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 123.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 123.
+(hyperref)                removed on input line 122.
 
 [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 155.
+(hyperref)                removed on input line 154.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 155.
+(hyperref)                removed on input line 154.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 155.
+(hyperref)                removed on input line 154.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 155.
+(hyperref)                removed on input line 154.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 160.
+(hyperref)                removed on input line 159.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 160.
+(hyperref)                removed on input line 159.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 160.
+(hyperref)                removing `math shift' on input line 159.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 160.
+(hyperref)                removing `math shift' on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 166.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 166.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2059,50 +2024,40 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 168.
+(hyperref)                removed on input line 167.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 168.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 168.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 168.
+(hyperref)                removed on input line 167.
 
 File: figures/basic.png Graphic file (type QTm)
 <use  "figures/basic.png" >
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 180.
+(hyperref)                removed on input line 179.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 180.
+(hyperref)                removed on input line 179.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 180.
+(hyperref)                removed on input line 179.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 180.
+(hyperref)                removed on input line 179.
 
 File: figures/plan1.png Graphic file (type QTm)
 <use  "figures/plan1.png" >
 File: figures/plan1-0.png Graphic file (type QTm)
  <use  "figures/plan1-0.png" >
-Overfull \hbox (9.40622pt too wide) in paragraph at lines 183--194
+Overfull \hbox (9.40622pt too wide) in paragraph at lines 182--193
 [][]   [] 
  []
 
@@ -2110,134 +2065,133 @@ Overfull \hbox (9.40622pt too wide) in paragraph at lines 183--194
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 249.
+(hyperref)                removed on input line 248.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 249.
+(hyperref)                removed on input line 248.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 249.
+(hyperref)                removed on input line 248.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 249.
+(hyperref)                removed on input line 248.
 
 File: figures/plan2.png Graphic file (type QTm)
 <use  "figures/plan2.png" >
 File: figures/plan2-0.png Graphic file (type QTm)
  <use  "figures/plan2-0.png" >
-Overfull \hbox (9.40622pt too wide) in paragraph at lines 255--266
+Overfull \hbox (9.40622pt too wide) in paragraph at lines 254--265
 [][]   [] 
  []
 
-[10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 286.
+(hyperref)                removed on input line 285.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 288.
+(hyperref)                removed on input line 287.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 288.
+(hyperref)                removed on input line 287.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 290.
+(hyperref)                removed on input line 289.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 290.
+(hyperref)                removed on input line 289.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 290.
+(hyperref)                removed on input line 289.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 290.
+(hyperref)                removed on input line 289.
 
-LaTeX Font Info:    Calculating math sizes for size <8.43495> on input line 291.
-[11]
+[10] [11]
 File: figures/minsize.png Graphic file (type QTm)
  <use  "figures/minsize.png" >
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 321.
+(hyperref)                removed on input line 322.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 321.
+(hyperref)                removed on input line 322.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 321.
+(hyperref)                removed on input line 322.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 321.
+(hyperref)                removed on input line 322.
 
-[12] [13]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 400.
-
+[12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 400.
+(hyperref)                removed on input line 401.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 400.
+(hyperref)                removed on input line 401.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 400.
+(hyperref)                removed on input line 401.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 409.
+(hyperref)                removed on input line 401.
+
+[13]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 410.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 409.
+(hyperref)                removed on input line 410.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 409.
+(hyperref)                removed on input line 410.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 409.
+(hyperref)                removed on input line 410.
 
 
-Overfull \hbox (29.14784pt too wide) in paragraph at lines 415--425
+Overfull \hbox (29.14784pt too wide) in paragraph at lines 416--426
  [][] 
  []
 
@@ -2248,95 +2202,94 @@ File: figures/DD1Y.png Graphic file (type QTm)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 445.
+(hyperref)                removed on input line 446.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 445.
+(hyperref)                removed on input line 446.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 445.
+(hyperref)                removed on input line 446.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 445.
+(hyperref)                removed on input line 446.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 451.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 451.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 452.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 452.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 452.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 452.
 
 [14] [15]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 450.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 450.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 451.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 451.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 451.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 451.
-
 File: figures/q2-1.png Graphic file (type QTm)
-<use  "figures/q2-1.png" >
+ <use  "figures/q2-1.png" >
 File: figures/q2-2.png Graphic file (type QTm)
  <use  "figures/q2-2.png" >
-Overfull \hbox (9.40622pt too wide) in paragraph at lines 458--469
+Overfull \hbox (9.40622pt too wide) in paragraph at lines 459--470
 [][]   [] 
  []
 
-[16]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 474.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 474.
+(hyperref)                removed on input line 475.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 474.
+(hyperref)                removed on input line 475.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 474.
+(hyperref)                removed on input line 475.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 536.
+(hyperref)                removed on input line 475.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 536.
+(hyperref)                removed on input line 537.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 537.
 
 File: figures/qq3.png Graphic file (type QTm)
-<use  "figures/qq3.png" > [17]
+<use  "figures/qq3.png" > [16] [17]
 File: figures/qiruiz.png Graphic file (type QTm)
  <use  "figures/qiruiz.png" >
 File: figures/qiruiyou.png Graphic file (type QTm)
@@ -2344,46 +2297,45 @@ File: figures/qiruiyou.png Graphic file (type QTm)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 584.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
 (hyperref)                removed on input line 585.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 585.
+(hyperref)                removed on input line 586.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 586.
 
 [18] [19]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 591.
+(hyperref)                removed on input line 592.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 591.
+(hyperref)                removed on input line 592.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 596.
+(hyperref)                removed on input line 597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 604.
+(hyperref)                removed on input line 605.
 
-[20]
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
 * Font 'STFangsong' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_STFangsong_int=\count289
+\g__fontspec_family_STFangsong_int=\count288
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -2411,30 +2363,30 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 
-Overfull \hbox (34.83347pt too wide) in paragraph at lines 608--609
+Overfull \hbox (34.83347pt too wide) in paragraph at lines 610--611
 [][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
-[21]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 623.
- [22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 623.
- (/Users/tinoryj/Documents/Works/组织-竞赛-瞎搞/数学建模/2017国赛/暑假集训第一阶段/练习题/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 623.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 623.
+[20]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 626.
+ [21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 626.
+ (/Users/tinoryj/Documents/progsData/Latex/LatexDocument/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 626.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 626.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 623.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 626.
  ) 
 Here is how much of TeX's memory you used:
- 30831 strings out of 493068
- 591078 string characters out of 6135636
- 659841 words of memory out of 5000000
- 34317 multiletter control sequences out of 15000+600000
- 31732 words of font info for 177 fonts, out of 8000000 for 9000
+ 30523 strings out of 493068
+ 573503 string characters out of 6135636
+ 666006 words of memory out of 5000000
+ 34018 multiletter control sequences out of 15000+600000
+ 24280 words of font info for 145 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 64i,11n,69p,10445b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,11n,82p,10445b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/tinoryj/Documents/Works/组织-竞赛-瞎搞/数学建模/2017国赛/暑假集训第一阶段/练习题/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.pdf (24 pages).
+Output written on /Users/tinoryj/Documents/progsData/Latex/LatexDocument/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.pdf (21 pages).
