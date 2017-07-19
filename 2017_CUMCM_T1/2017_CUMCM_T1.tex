@@ -467,6 +467,8 @@ $length = 72.48\times 2.72 = 197.1456$，            $width = 70 \times 1.625 =
 
 \par 本文以左外后视镜为例，给出一个简单的判断方法。通过查询资料，得到量产车辆的一般宽度（车身外侧钣金最突点之间的距离）为$W=1700mm$，因此首先将后车车头抽象为一条平均长度在1700mm的线段$c_1$，反射到后视镜上为线段$c_2$。左外后视镜分界线以左曲率半径小，畸变较大，只用来判断后方物体的有无，不用作距离远近和方位的判断。因而在$c_2$上选取如图（\ref{q2-1}）所示的两个特征：$c_2$右端点距后视镜最右侧的距离和$c_2$长度占分界线以右长度$a$的比例。右后视镜同理如图（\ref{q2-2}）所示。
 
+
+
 \begin{figure}[!htbp]  
 \begin{minipage}[t]{0.5\textwidth}
 \centering  
@@ -490,8 +492,14 @@ $length = 72.48\times 2.72 = 197.1456$，            $width = 70 \times 1.625 =
 \caption{车距定义示意图} \label{q2-3}
 \end{figure}
 
+\par 本文通过多项式回归找到拟合的表达式，并用剩余标准差\upcite{剩余标准差}（如公式（\ref{剩余标准差公式}）所示）来衡量误差。
 
-\subsubsection{综合求解结果}
+\begin{equation}
+\label{剩余标准差公式}
+	S = \sqrt{\frac{Q}{f_Q}} = \sqrt{\frac{\sum\limits_{i = 1}^{n} \left( y_i - \hat{y_i} \right)^2}{n-2}}
+\end{equation}
+
+\subsubsection{综合求解}
 
 \par 根据计算机模拟得出纵向车距（左外后视镜距后车车头的距离）和横向车距，结果如表（\ref{车距计算结果}）所示。
 
@@ -548,7 +556,7 @@ $length = 72.48\times 2.72 = 197.1456$，            $width = 70 \times 1.625 =
 \begin{figure}[h]
 \small
 \centering
-\includegraphics[width=\textwidth]{q2-huigui.png}
+\includegraphics[width=12cm]{q2-huigui.png}
 \caption{汽纵向距离拟合曲线} \label{q2-huigui}
 \end{figure}
 
@@ -565,12 +573,12 @@ $length = 72.48\times 2.72 = 197.1456$，            $width = 70 \times 1.625 =
 \begin{figure}[h]
 \small
 \centering
-\includegraphics[width=\textwidth]{q2-huigui-shuiping.png}
+\includegraphics[width=12cm]{q2-huigui-shuiping.png}
 \caption{汽车横向距离拟合曲线} \label{q2-huigui-shuiping}
 \end{figure}
 
 
-\par 驾驶员可按照上表（\ref{q2-huigui}）通过后车的像在左外后视镜a区中宽度的占比大致确定后车纵向距离，通过后车的像的右边缘距左外后视镜右边缘的距离占比确定后车横向距离。
+\par 驾驶员可按照上表（\ref{车距计算结果}）通过后车的像在左外后视镜a区中宽度的占比大致确定后车纵向距离，通过后车的像的右边缘距左外后视镜右边缘的距离占比确定后车横向距离。
 
 
 \subsection{问题三求解}
@@ -645,6 +653,7 @@ $length = 72.48\times 2.72 = 197.1456$，            $width = 70 \times 1.625 =
  \bibitem{后视镜仿真} 牛慧超. 汽车后视镜检测系统的研究及仿真设计[D]. 武汉理工大学, 2009.
  \bibitem{GB} GB 15084-94 汽车后视镜的性能和安装要求
  \bibitem{汽车分类}\url{https://www.zybang.com/question/cf0e112815df2cd96348c0e973e0a546.html}
+ \bibitem{剩余标准差} \url{http://baike.baidu.com/link?url=ZHnyqmzYJbm6QayDkOHQ5ZmM-4Yq4bbgRDUFllJ_nk7wS4lpTxxFKuHKCr2cr9MeuENIsMVkLY3L3y5gn57eDarr51Pklm1RArkCHendwbcWYB3POIVxcQwYsNxeP6nMbWQrYYoI9iH2oceYnzfxLK}
  
 \end{thebibliography}
 

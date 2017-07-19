@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.5.27)  19 JUL 2017 16:55
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.5.27)  19 JUL 2017 17:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2255,7 +2255,7 @@ File: figures/q2-z.png Graphic file (type QTm)
  <use  "figures/q2-z.png" >
 File: figures/q2-y.png Graphic file (type QTm)
  <use  "figures/q2-y.png" >
-Overfull \hbox (9.40622pt too wide) in paragraph at lines 485--496
+Overfull \hbox (9.40622pt too wide) in paragraph at lines 487--498
 [][]   [] 
  []
 
@@ -2264,29 +2264,33 @@ File: figures/q2-3.png Graphic file (type QTm)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 508.
+(hyperref)                removed on input line 516.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 508.
+(hyperref)                removed on input line 516.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 508.
+(hyperref)                removed on input line 516.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 508.
+(hyperref)                removed on input line 516.
 
+[16]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[16] [17]
 File: figures/q2-huigui.png Graphic file (type QTm)
- <use  "figures/q2-huigui.png" >
+<use  "figures/q2-huigui.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17]
 File: figures/q2-huigui-shuiping.png Graphic file (type QTm)
  <use  "figures/q2-huigui-shuiping.png" >
 
@@ -2295,12 +2299,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 590.
+(hyperref)                removed on input line 598.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 590.
+(hyperref)                removed on input line 598.
 
 File: figures/qq3.png Graphic file (type QTm)
 <use  "figures/qq3.png" > [18]
@@ -2308,7 +2312,7 @@ File: figures/qiruiz.png Graphic file (type QTm)
  <use  "figures/qiruiz.png" >
 File: figures/qiruiyou.png Graphic file (type QTm)
  <use  "figures/qiruiyou.png" >
-Overfull \hbox (9.40622pt too wide) in paragraph at lines 621--631
+Overfull \hbox (9.40622pt too wide) in paragraph at lines 629--639
 [][]   [] 
  []
 
@@ -2316,38 +2320,38 @@ Overfull \hbox (9.40622pt too wide) in paragraph at lines 621--631
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 639.
+(hyperref)                removed on input line 647.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 640.
+(hyperref)                removed on input line 648.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 640.
+(hyperref)                removed on input line 648.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 646.
+(hyperref)                removed on input line 654.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 646.
+(hyperref)                removed on input line 654.
 
 [20]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 651.
+(hyperref)                removed on input line 659.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
-(hyperref)                removed on input line 659.
+(hyperref)                removed on input line 667.
 
 *************************************************
 * fontspec warning: "script-not-exist"
@@ -2382,28 +2386,38 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 
-Overfull \hbox (34.83347pt too wide) in paragraph at lines 664--665
+Overfull \hbox (34.83347pt too wide) in paragraph at lines 672--673
 [][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
+
+Overfull \hbox (85.95177pt too wide) in paragraph at lines 673--674
+[][]$[][][][] [] [] [] [][][][][] [] [][][][][] [] [][][] [] [][][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
+ []
+
+
+Overfull \hbox (360.23683pt too wide) in paragraph at lines 673--674
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[] 
+ []
+
 [21]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 680.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 689.
  [22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 680.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 689.
  (/Users/tinoryj/Documents/progsData/Latex/LatexDocument/2017_CUMCM_T1/.texpadtmp/2017_CUMCM_T1.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 680.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 680.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 689.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 689.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 680.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 689.
  ) 
 Here is how much of TeX's memory you used:
- 30541 strings out of 493068
- 573954 string characters out of 6135636
+ 30543 strings out of 493068
+ 573970 string characters out of 6135636
  663006 words of memory out of 5000000
- 34031 multiletter control sequences out of 15000+600000
+ 34033 multiletter control sequences out of 15000+600000
  24280 words of font info for 145 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  64i,11n,82p,10445b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
