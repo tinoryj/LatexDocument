@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.5.27)  19 JUL 2017 17:13
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.5.27)  20 JUL 2017 09:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2316,7 +2316,6 @@ Overfull \hbox (9.40622pt too wide) in paragraph at lines 629--639
 [][]   [] 
  []
 
-[19]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
@@ -2332,6 +2331,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
 (hyperref)                removed on input line 648.
 
+[19]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
@@ -2342,12 +2342,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
 (hyperref)                removed on input line 654.
 
-[20]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt
 (hyperref)                removed on input line 659.
 
+[20]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -12.05pt

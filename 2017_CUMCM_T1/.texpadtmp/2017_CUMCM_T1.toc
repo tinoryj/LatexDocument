@@ -30,7 +30,7 @@
 \contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三求解}{19}{subsection.6.3}
 \contentsline {section}{\numberline {七、\kern -1em}模型优缺点}{20}{section.7}
 \contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型优点}{20}{subsection.7.1}
-\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型缺点}{21}{subsection.7.2}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型缺点}{20}{subsection.7.2}
 \contentsline {section}{\numberline {八、\kern -1em}模型改进方向}{21}{section.8}
 \contentsline {section}{\numberline {九、\kern -1em}参考文献}{21}{section.9}
 \contentsline {section}{\numberline {附录A}附件内容}{22}{section.1}
